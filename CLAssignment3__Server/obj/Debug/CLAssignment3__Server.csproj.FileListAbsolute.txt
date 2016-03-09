@@ -1,0 +1,6 @@
+C:\Users\Cody-Ray\Desktop\CLAssignment3__Server\CLAssignment3__Server\bin\Debug\CLAssignment3__Server.dll.config
+C:\Users\Cody-Ray\Desktop\CLAssignment3__Server\CLAssignment3__Server\bin\Debug\CLAssignment3__Server.dll
+C:\Users\Cody-Ray\Desktop\CLAssignment3__Server\CLAssignment3__Server\bin\Debug\CLAssignment3__Server.pdb
+C:\Users\Cody-Ray\Desktop\CLAssignment3__Server\CLAssignment3__Server\obj\Debug\CLAssignment3__Server.dll
+C:\Users\Cody-Ray\Desktop\CLAssignment3__Server\CLAssignment3__Server\obj\Debug\CLAssignment3__Server.pdb
+C:\Users\Cody-Ray\Desktop\CLAssignment3__Server\CLAssignment3__Server\obj\Debug\CLAssignment3__Server.csprojResolveAssemblyReference.cache
